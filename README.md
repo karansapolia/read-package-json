@@ -1,7 +1,7 @@
 # read-package-json
 
 > [!NOTE] 
-> This repo has been archived. Please use [npm/package-json](https://github.com/package-json) instead.
+> This repo has been archived. Please use [npm/package-json](https://github.com/npm/package-json) instead.
 
 This is the thing that npm uses to read package.json files.  It
 validates some stuff, and loads some default things.
